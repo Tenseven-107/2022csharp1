@@ -1,0 +1,15 @@
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\bin\Debug\net6.0\ProjectAddOpdracht.exe
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\bin\Debug\net6.0\ProjectAddOpdracht.deps.json
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\bin\Debug\net6.0\ProjectAddOpdracht.runtimeconfig.json
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\bin\Debug\net6.0\ProjectAddOpdracht.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\bin\Debug\net6.0\ProjectAddOpdracht.pdb
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ProjectAddOpdracht.csproj.AssemblyReference.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ProjectAddOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ProjectAddOpdracht.AssemblyInfoInputs.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ProjectAddOpdracht.AssemblyInfo.cs
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ProjectAddOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ProjectAddOpdracht.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\refint\ProjectAddOpdracht.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ProjectAddOpdracht.pdb
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ProjectAddOpdracht.genruntimeconfig.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\CSharpOpdrachten\ConsoleAppNew\obj\Debug\net6.0\ref\ProjectAddOpdracht.dll
