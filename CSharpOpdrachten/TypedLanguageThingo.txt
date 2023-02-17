@@ -1,0 +1,8 @@
+Ding 2:
+Strongly typed langue: het beltaald data type
+
+Voorbeelden:
+C, c# java
+
+Verschil javascript/python:
+Python is voor software en javascript voor web.
