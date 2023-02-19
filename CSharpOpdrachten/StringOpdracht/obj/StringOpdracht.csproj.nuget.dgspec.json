@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\StringOpdracht\\StringOpdracht.csproj": {}
+    "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\StringOpdracht\\StringOpdracht.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\StringOpdracht\\StringOpdracht.csproj": {
+    "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\StringOpdracht\\StringOpdracht.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\StringOpdracht\\StringOpdracht.csproj",
+        "projectUniqueName": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\StringOpdracht\\StringOpdracht.csproj",
         "projectName": "StringOpdracht",
-        "projectPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\StringOpdracht\\StringOpdracht.csproj",
+        "projectPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\StringOpdracht\\StringOpdracht.csproj",
         "packagesPath": "C:\\Users\\nadri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\StringOpdracht\\obj\\",
+        "outputPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\StringOpdracht\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nadri\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
+      "projectUniqueName": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
       "projectName": "CSharpOpdrachten",
-      "projectPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
+      "projectPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
       "packagesPath": "C:\\Users\\nadri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\CSharpOpdrachten\\obj\\",
+      "outputPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\CSharpOpdrachten\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nadri\\AppData\\Roaming\\NuGet\\NuGet.Config",

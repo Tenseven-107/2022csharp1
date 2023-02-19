@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\ConsoleAppNew\\ProjectAddOpdracht.csproj": {}
+    "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\ConsoleAppNew\\ProjectAddOpdracht.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\ConsoleAppNew\\ProjectAddOpdracht.csproj": {
+    "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\ConsoleAppNew\\ProjectAddOpdracht.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\ConsoleAppNew\\ProjectAddOpdracht.csproj",
+        "projectUniqueName": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\ConsoleAppNew\\ProjectAddOpdracht.csproj",
         "projectName": "ProjectAddOpdracht",
-        "projectPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\ConsoleAppNew\\ProjectAddOpdracht.csproj",
+        "projectPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\ConsoleAppNew\\ProjectAddOpdracht.csproj",
         "packagesPath": "C:\\Users\\nadri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\CSharpOpdrachten\\ConsoleAppNew\\obj\\",
+        "outputPath": "C:\\Users\\nadri\\Development\\School\\proofmap\\Periode_1.3\\Csharp\\2022csharp1\\CSharpOpdrachten\\ConsoleAppNew\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nadri\\AppData\\Roaming\\NuGet\\NuGet.Config",
