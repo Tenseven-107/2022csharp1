@@ -1,0 +1,15 @@
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.exe
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.deps.json
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.runtimeconfig.json
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\bin\Debug\net6.0\VariableOpdracht1.pdb
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.csproj.AssemblyReference.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.AssemblyInfoInputs.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.AssemblyInfo.cs
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.csproj.CoreCompileInputs.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\refint\VariableOpdracht1.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.pdb
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\VariableOpdracht1.genruntimeconfig.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\VariableOpdracht\VariableOpdracht1\VariableOpdracht1\obj\Debug\net6.0\ref\VariableOpdracht1.dll
