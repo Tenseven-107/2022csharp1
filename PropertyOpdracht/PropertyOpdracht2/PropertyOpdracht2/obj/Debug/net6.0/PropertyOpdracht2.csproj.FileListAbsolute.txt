@@ -1,0 +1,15 @@
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.exe
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.deps.json
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.runtimeconfig.json
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\bin\Debug\net6.0\PropertyOpdracht2.pdb
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.csproj.AssemblyReference.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.AssemblyInfoInputs.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.AssemblyInfo.cs
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\refint\PropertyOpdracht2.dll
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.pdb
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\PropertyOpdracht2.genruntimeconfig.cache
+C:\Users\nadri\Development\School\proofmap\Periode_1.3\Csharp\2022csharp1\PropertyOpdracht\PropertyOpdracht2\PropertyOpdracht2\obj\Debug\net6.0\ref\PropertyOpdracht2.dll
